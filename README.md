@@ -1,4 +1,4 @@
-# login-frontend
+# login-project
 
 ## Project setup
 ```
